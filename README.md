@@ -141,4 +141,4 @@ For "readability", this code has been spread across many lines, and blanks and c
 
 > [This post](https://benkonz.github.io/building-a-brainfuck-compiler-with-rust-and-llvm/), this post gelp me to write the script's part of CLI.
 
-Copyright © 2022 - OpenBrainfuck Foundation - Tout droit réservé
+Copyright © 2022 - Zuygui - Tout droit réservé
