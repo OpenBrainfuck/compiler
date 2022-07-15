@@ -1,0 +1,5 @@
+*.obf linguist-detectable
+*.c linguist-language=C
+*.h linguist-language=C
+*.rs linguist-language=Rust
+*.obf linguist-language=OpenBrainfuck
